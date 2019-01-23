@@ -1,7 +1,5 @@
 #CricleShop后台管理系统
 
-有疑问请联系  591748932@qq.com
-
 > 管理员账户/密码:admin
 
 # 项目结构(vue-cli)
